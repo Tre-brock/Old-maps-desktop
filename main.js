@@ -5,7 +5,7 @@ let mainWindow;
 
 app.on('ready', () => {
     mainWindow = new BrowserWindow({
-        width: 1000,
+        width: 1100,
         autoHideMenuBar: true,
         height: 800
     });
