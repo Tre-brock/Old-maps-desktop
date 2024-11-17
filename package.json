@@ -1,0 +1,8 @@
+{
+    "name": "Old-maps-desktop",
+    "version": "1.0.0",
+    "description": "View the website (Old maps online) in a desktop app.",
+    "main": "main.js",
+    "author": "Tre_brock",
+    "license": "GPL-3.0-only"
+  }
