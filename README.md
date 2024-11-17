@@ -15,5 +15,11 @@ Note to MacOS users: If the os says the program is corrupt, you must type "xattr
 ![image](https://github.com/user-attachments/assets/fef0383d-ce7e-45b8-a587-fd82a50a3c9a)
 ![Screenshot_20241117_133554](https://github.com/user-attachments/assets/cb894077-e858-4346-bb4a-a773f289cbb7)
 <br>
+<hr>
+<h2>How to run from source:</h2>
+Download the source
 <br>
+Run in your terminal "electron /pathtofolder/main.js
+<br>
+<hr>
 Note: This app promotes or depends entirely on a non-free network service
