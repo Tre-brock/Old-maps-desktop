@@ -16,6 +16,4 @@ Note to MacOS users: If the os says the program is corrupt, you must type "xattr
 ![Screenshot_20241117_133554](https://github.com/user-attachments/assets/cb894077-e858-4346-bb4a-a773f289cbb7)
 <br>
 <br>
-    This app promotes or depends entirely on a non-free network service
-
 Note: This app promotes or depends entirely on a non-free network service
