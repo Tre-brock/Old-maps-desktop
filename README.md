@@ -4,7 +4,7 @@ View the website oldmapsonline.org in a desktop app.
 <br>
 View old world borders in a app on your desktop. No need to enable web gl or canvas in your browser.
 <br>
-Native support for Linux, Windows and Darwin (MacOS). BSD users can run the app through wine.
+Native support for Linux, Windows, and Darwin (MacOS). BSD users can run the app through Wine.
 <br>
 <br>
 Note to MacOS users: If the os says the program is corrupt, you must type "xattr -c /Pathtofolder/Old-maps-desktop.app" into your terminal
@@ -17,9 +17,11 @@ Note to MacOS users: If the os says the program is corrupt, you must type "xattr
 <br>
 <hr>
 <h2>How to run from source:</h2>
+You need electron installed or usable
+<br>
 Download the source
 <br>
-Run in your terminal "electron /pathtofolder/main.js
+Run in your terminal "electron /pathtofolder/main.js"
 <br>
 <hr>
 Note: This app promotes or depends entirely on a non-free network service
