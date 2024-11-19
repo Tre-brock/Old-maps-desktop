@@ -4,7 +4,7 @@ View the website oldmapsonline.org in a desktop app.
 <br>
 View old world borders in a desktop app. You don't need to enable WebGL or Canvas in your browser.
 <br>
-Native support for Linux, Windows, and Darwin (MacOS). BSD users can run the app through Wine.
+Native support for Linux, Windows, and Darwin (MacOS). BSD users can run the app through Wine or from source.
 <br>
 <a href="https://github.com/Tre-brock/Old-maps-desktop/issues/1">How to run from source</a>
 <br>
