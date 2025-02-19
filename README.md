@@ -6,6 +6,8 @@ View old world borders in a desktop app. You don't need to enable WebGL or Canva
 <br>
 Native support for Linux, Windows, and Darwin (MacOS).
 <br>
+<a href="https://github.com/Tre-brock/Old-maps-desktop/releases/expanded_assets/1.0.1">Download page</a>
+<br>
 <a href="https://github.com/Tre-brock/Old-maps-desktop/issues/1">How to run from source</a>
 <br>
 <br>
