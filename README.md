@@ -6,18 +6,14 @@ View old world borders in a desktop app. You don't need to enable WebGL or Canva
 <br>
 Native support for Linux, Windows, and Darwin (MacOS).
 <br>
-<a href="https://github.com/Tre-brock/Old-maps-desktop/releases/expanded_assets/1.0.1">Download page</a>
-<br>
-<a href="https://github.com/Tre-brock/Old-maps-desktop/issues/1">How to run from source</a>
+<a href="https://github.com/Tre-brock/Old-maps-desktop/releases/expanded_assets/1.0.1">Download page</a> | <a href="https://github.com/Tre-brock/Old-maps-desktop/issues/1">How to run from source</a>
 <br>
 <br>
 Note to MacOS users: If the os says the program is corrupt, you must type "xattr -c /Pathtofolder/Old-maps-desktop.app" into your terminal
 <hr>
 <h2>Screenshots</h2>
 
-![Screenshot_20241116_225508](https://github.com/user-attachments/assets/3a36a10e-4add-4e85-83c0-91cd26878b96)
-![image](https://github.com/user-attachments/assets/fef0383d-ce7e-45b8-a587-fd82a50a3c9a)
-![Screenshot_20241117_133554](https://github.com/user-attachments/assets/cb894077-e858-4346-bb4a-a773f289cbb7)
+<img src="https://private-user-images.githubusercontent.com/152460754/386988177-cb894077-e858-4346-bb4a-a773f289cbb7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5ODIzNzIsIm5iZiI6MTczOTk4MjA3MiwicGF0aCI6Ii8xNTI0NjA3NTQvMzg2OTg4MTc3LWNiODk0MDc3LWU4NTgtNDM0Ni1iYjRhLWE3NzNmMjg5Y2JiNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQxNjIxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNzgwMWI0OTdlYTQzOGI4MGMyYzcxM2JhOTM1N2MwY2RiMjYzMTkyODZmZDU4YjAxMTI4ZTQ0MTJmN2FiYjJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4zn5zNfJNlgE7znvmV0Y1aYUtVJ0zwyRl08KPOy5S38" width="600"> <img src="https://private-user-images.githubusercontent.com/152460754/386984558-fef0383d-ce7e-45b8-a587-fd82a50a3c9a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5ODIzNzIsIm5iZiI6MTczOTk4MjA3MiwicGF0aCI6Ii8xNTI0NjA3NTQvMzg2OTg0NTU4LWZlZjAzODNkLWNlN2UtNDViOC1hNTg3LWZkODJhNTBhM2M5YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQxNjIxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MmFhYjM4OTY5OTUyZmQ3NTZjYmRhODkzODEyOTY2MzZjZmM3ODEwNjkyYTQ2ZjMwMmE0MmQ5MTk0YmJlNjljJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kBDfYCDMdCxxnDE102uihhPfG5p6f0GBMA451-6wxl4" width="600"> <img src="https://private-user-images.githubusercontent.com/152460754/386918417-3a36a10e-4add-4e85-83c0-91cd26878b96.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5ODIzNzIsIm5iZiI6MTczOTk4MjA3MiwicGF0aCI6Ii8xNTI0NjA3NTQvMzg2OTE4NDE3LTNhMzZhMTBlLTRhZGQtNGU4NS04M2MwLTkxY2QyNjg3OGI5Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxOVQxNjIxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NGM4NjFkYjY0NWVhNTFjZjM5MzQ1NDY0NzExMGU1MDlkYTFjNTZkMTU0ZmQ4ZTE2MGEzNWNkYTJkYjI5ZDczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.B6YWwLQWMXeZTc_trBMS9Am3MAyr-J4l7XbByNu6Kko" width="600">
 <br>
 <hr>
 Note: This app promotes or depends entirely on a non-free network service
