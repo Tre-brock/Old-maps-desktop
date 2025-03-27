@@ -13,9 +13,9 @@ Note to MacOS users: If the os says the program is corrupt, you must type "xattr
 <hr>
 <h2>Screenshots</h2>
 
-![Screenshot_20241116_225508](https://github.com/user-attachments/assets/3a36a10e-4add-4e85-83c0-91cd26878b96)
-![image](https://github.com/user-attachments/assets/fef0383d-ce7e-45b8-a587-fd82a50a3c9a)
-![Screenshot_20241117_133554](https://github.com/user-attachments/assets/cb894077-e858-4346-bb4a-a773f289cbb7)
+![Linux Screenshot](https://github.com/user-attachments/assets/3a36a10e-4add-4e85-83c0-91cd26878b96)
+![MacOS Screenshot](https://github.com/user-attachments/assets/fef0383d-ce7e-45b8-a587-fd82a50a3c9a)
+![Windows Screenshot](https://github.com/user-attachments/assets/cb894077-e858-4346-bb4a-a773f289cbb7)
 <br>
 <hr>
 Note: This app promotes or depends entirely on a non-free network service
