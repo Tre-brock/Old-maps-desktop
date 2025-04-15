@@ -4,9 +4,9 @@ View the website oldmapsonline.org in a desktop app.
 <br>
 View old world borders in a desktop app. You don't need to enable WebGL or Canvas in your browser.
 <br>
-Native support for Linux, Windows, and Darwin (MacOS).
+Native support for Linux, Windows, and MacOS.
 <br>
-<a rel="noreferrer" href="https://github.com/Tre-brock/Old-maps-desktop/releases/expanded_assets/1.0.1">Download page</a> | <a href="https://github.com/Tre-brock/Old-maps-desktop/issues/1">How to run from source</a>
+<a rel="noreferrer" href="https://github.com/Tre-brock/Old-maps-desktop/releases/expanded_assets/1.0.1">Download page</a> | <a href="https://gist.github.com/Tre-brock/e67eb844754962a42ad4ad5c93b2e71c">How to run from source</a>
 <br>
 <br>
 Note to MacOS users: If the os says the program is corrupt, you must type "xattr -c /Pathtofolder/Old-maps-desktop.app" into your terminal
